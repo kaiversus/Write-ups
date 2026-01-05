@@ -1,10 +1,4 @@
----
-layout: default
-title: "Tap Into Hash - PicoCTF"
-date: 2025-01-14
-description: "#Reverse #Blockchain #Crypto"
-categories: [crypto, reverse, picoctf]
----
+
 
 # Tap into Hash - picoCTF
 
@@ -29,18 +23,8 @@ Find the encrypted file here. It might be good to analyze source file to get the
 - Download the encrypted flag file and the source file and reverse engineer the source file.
 
 **Files provided:**
-<ul>
-    <li>
-        <a href="/_writeups/TapIntoHash_pico/block_chain.py" download>
-            [Download] block_chain.py
-        </a>
-    </li>
-    <li>
-        <a href="/_writeups/TapIntoHash_pico/enc_flag" download>
-            [Download] enc_flag
-        </a>
-    </li>
-</ul>
+- `block_chain.py`
+- `enc_flag`
 
 **Connection info:**  
 
@@ -338,3 +322,4 @@ picoCTF{block_3SRhViRbT1qcX_XUjM0r49cH_qCzmJZzBK_c83eaee3}
 ---
 
 `#ctf` `#writeup` `#[category]` `#[picoCTF]` `#[Reverse]`
+
